@@ -1,0 +1,10 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root { color-scheme: dark; }
+html, body { height: 100%; }
+body { background: #0b0b0d; color: #fff; }
+
+/* Efect glow subtil pe roșu */
+.glow-red { box-shadow: 0 0 40px #d7263d44; }
